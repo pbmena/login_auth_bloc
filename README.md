@@ -21,6 +21,7 @@ $ flutter run android|ios
 | ------       | ------ |
 | flutter_bloc | [package/flutter_bloc/Readme] |
 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
