@@ -8,6 +8,7 @@ class LoginObserver extends BlocObserver {
   }
 
   @override
+  // ignore: avoid_renaming_method_parameters
   void onError(BlocBase bloc, Object error, StackTrace stacktrace) {
     super.onError(bloc, error, stacktrace);
     print('${bloc.runtimeType} $error');

@@ -7,7 +7,6 @@ part 'login_state.dart';
 
 class LoginBloc extends Bloc<LoginEvent, LoginInit> {
   LoginBloc({required this.authRepo}) : super(LoginInit());
-
   final AuthRepository authRepo;
 
   @override
