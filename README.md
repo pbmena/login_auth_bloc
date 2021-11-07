@@ -2,8 +2,11 @@
 
 Sample of UI for login with flutter bloc package.
 ## Flutter Sample
-![error](assets/readme_screen/error.gif)
-![loading](assets/readme_screen/loading.gif)
+<p align="center">
+<img src="assets/readme_screen/error.gif" width=200>
+<img src="assets/readme_screen/loading.gif" width=200>
+</p>
+
 ## Installation
 To clone and run this project:
 ```sh
