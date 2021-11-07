@@ -1,6 +1,22 @@
 # login_auth_bloc
 
-A new Flutter project.
+Sample of UI for login with flutter bloc package.
+## Flutter Sample
+![error](assets/readme_screen/error.gif)
+![loading](assets/readme_screen/loading.gif)
+## Installation
+To clone and run this project:
+```sh
+$ cd newProject
+$ git clone https://github.com/pbmena/login_auth_bloc.git
+$ flutter run android|ios
+```
+[package/flutter_bloc/Readme]:<https://pub.dev/packages/flutter_bloc>
+
+## Package
+| Package      | Readme |
+| ------       | ------ |
+| flutter_bloc | [package/flutter_bloc/Readme] |
 
 ## Getting Started
 
